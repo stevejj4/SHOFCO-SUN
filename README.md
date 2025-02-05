@@ -58,6 +58,7 @@ This section outlines potential enhancements to improve the data processing pipe
 * **Interactive Dashboard:** Develop a web-based report portal using Flask for interactive data exploration.
 * **User Authentication:** Implement user authentication to control access to the portal.
 * **Real-Time Updates:** Integrate real-time data updates for the most current information.
+* **Data-Insights chatbot:** Integrate a reat-time data insight chat to provide reporting.
 
 ## Contributing
 
